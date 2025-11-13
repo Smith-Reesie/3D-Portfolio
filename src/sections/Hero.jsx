@@ -32,11 +32,12 @@ const Hero = () => {
                         </h1>
                         <h1>into Real World Projects</h1>
                         <h1>that Delivers Results</h1>
-                        <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">Hi! Im Maurice, a Engineer using creativity and code to build an Immersive Digital Experiences.
+                        <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">Hello Im Maurice, a Engineer using creativity and code to build an Immersive Digital Experiences.
                         </p>
                         <Button className="md:w-80 md:h-16 w-60 h-12"
                                 id="counter"
-                                text="See my work"/>
+                                text="See my work"
+                        />
                     </div>
                  </div>
             </header>
