@@ -1,6 +1,4 @@
-# 3D-Portfolio
-Personal 3D portfolio creatively showcasing my tech journey
-
+# 🌐 3D Portfolio Website
 
 An interactive **3D developer portfolio** built with **Three.js**, **Vite**, and **Tailwind CSS v4** — inspired by [this YouTube tutorial](https://www.youtube.com/watch?v=kt0FrkQgw8w&list=PL6QREj8te1P7q1OjvnnLG-Tm7OX5u4Mg9).  
 This project showcases 3D design, smooth animations, and responsive layouts powered by modern web technologies.
